@@ -3,12 +3,10 @@
 
 Welcome to my LeetCode-Rust-Journey repository! Here, I document my progress as I tackle various LeetCode problems using Rust. This repository serves as a journal of my learning experiences, problem-solving techniques, and the growth of my Rust skills.
 
-## Table of Contents
+## Table of Problems
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Challenges and Solutions](#challenges-and-solutions)
+### Vector 
+[2469.Convert the Temperature](#2469-convert-the-temperature)
 
 ## Introduction
 
