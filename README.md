@@ -6,7 +6,6 @@ Welcome to my LeetCode-Rust-Journey repository! Here, I document my progress as 
 ## Table of Problems
 
 ### Vector 
-[2469.Convert the Temperature](#2469-convert-the-temperature)
 
 ## Introduction
 
