@@ -16,6 +16,6 @@ mod tests {
     fn test_if_else() {
         assert_eq!(if_else(5, 3), 1);
         assert_eq!(if_else(3, 3), 0);
-        assert_eq!(if_else(4, 4), -1);
+        assert_eq!(if_else(4, 5), -1);
     }
 }
